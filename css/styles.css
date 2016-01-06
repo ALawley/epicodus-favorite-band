@@ -2,6 +2,9 @@
   width: 30%;
   float: left;
   background-color: pink;
+  border: 2px solid grey;
+  padding: 8px;
+  margin: 10px;
 }
 
 .right {
